@@ -1,5 +1,5 @@
 {
-  "name": "[your_project_name_here]",
+  "name": "next-starter",
   "private": true,
   "scripts": {
     "dev": "next dev",
