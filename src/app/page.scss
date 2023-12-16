@@ -1,0 +1,12 @@
+$whub-color: #e1251b;
+$ahub-color: #bf8f30;
+
+#pages-home {
+  .ahub {
+    background-color: rgba($ahub-color, 0.3);
+  }
+
+  .whub {
+    background-color: rgba($whub-color, 0.3);
+  }
+}
